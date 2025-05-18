@@ -13,6 +13,8 @@ using namespace vex;
 // A global instance of vex::brain used for printing to the IQ2 brain screen
 vex::brain       Brain;
 
+// UWU GYATT RIZZZZZZZZLER
+
 // type = vex::brain, name = Brain
 
 // define your global instances of motors and other devices here
